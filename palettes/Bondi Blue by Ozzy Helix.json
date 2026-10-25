@@ -8,6 +8,9 @@
   "tertiary": "#0095B6",
   "on_tertiary": "#FFFFFF",
 
+  "success": "#618216",
+  "on_success": "#FFFFFF",
+
   "danger": "#f38ba8",
   "on_danger": "#FFFFFF",
 
